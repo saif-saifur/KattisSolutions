@@ -1,3 +1,4 @@
+#https://open.kattis.com/problems/dicecup
 def main():
     N, M = map(int, input().split())
     outcomes = [0] * (N + M + 1)
