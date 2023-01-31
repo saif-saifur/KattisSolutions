@@ -1,3 +1,4 @@
+#https://open.kattis.com/problems/buka
 a = int(input().strip())
 op = input().strip()
 b = int(input().strip())
